@@ -1,5 +1,5 @@
-ExperimentalAverage: q1.c
-	gcc -o -g -lm ExperimentalAverage q1.c
+MyShell: q2.c
+	gcc -g -o q2.c
 
 
 
